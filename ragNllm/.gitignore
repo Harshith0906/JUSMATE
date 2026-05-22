@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.faiss
+*.npy
+
+# temp files
+temp.py

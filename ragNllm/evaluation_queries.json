@@ -1,0 +1,902 @@
+[
+  {
+    "query": "Compensation for death in a car accident",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Claim for injury due to truck collision",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Hit-and-run accident compensation procedure",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Insurance liability in road accident case",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Fatal motorcycle crash legal remedy",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Claim before Motor Accident Claims Tribunal",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Compensation for pedestrian killed by bus",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Road accident involving uninsured vehicle",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Negligent driving causing death",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Claim for permanent disability due to accident",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Compensation under Motor Vehicles Act Section 166",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Third-party insurance claim procedure",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Delay in filing motor accident claim",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Road accident settlement process",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Compensation for minor injured in accident",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Owner liability in car crash case",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Fatal accident due to drunk driving",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Appeal against MACT decision",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Motor vehicle accident insurance dispute",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Liability of driver in highway accident",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Claim for damage to property in road crash",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Compensation for death of sole breadwinner in accident",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Filing claim after six months of accident",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Legal heirs compensation rights in accident case",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Tribunal jurisdiction for motor accident claim",
+    "expected_keywords": [
+      "Motor Vehicles Act"
+    ]
+  },
+  {
+    "query": "Compensation for train derailment injury",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Death due to untoward railway incident",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Claim before Railway Claims Tribunal",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Passenger injury in railway accident",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Railway accident compensation procedure",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Fall from train injury claim",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Compensation for platform accident",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Liability of railway administration",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Claim for death due to railway negligence",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Railway untoward incident definition",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Compensation for luggage loss in train accident",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Minor injured in train accident claim",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Appeal against railway tribunal order",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Railway administration liability for passenger injury",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Death due to explosion inside train",
+    "expected_keywords": [
+      "Railways Act"
+    ]
+  },
+  {
+    "query": "Breach of contract remedies in India",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Damages for non-performance of contract",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Void and voidable agreements difference",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Compensation for breach of service agreement",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Contract signed under coercion validity",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Legal remedy for supplier contract violation",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Specific performance of contract",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Anticipatory breach legal consequences",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Contract termination clause dispute",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Recovery of advance payment after breach",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Oral contract enforceability in India",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Penalty clause vs liquidated damages",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Consideration in Indian Contract Act",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Agreement without consideration validity",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Misrepresentation in contract formation",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Frustration of contract doctrine",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Contract entered by minor validity",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Compensation for delay in construction contract",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Breach of partnership agreement",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Rescission of contract procedure",
+    "expected_keywords": [
+      "Indian Contract Act"
+    ]
+  },
+  {
+    "query": "Criminal negligence causing death",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Punishment for rash driving causing death",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "IPC Section 304A explanation",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Bail in negligence causing injury case",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Medical negligence criminal liability",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Difference between culpable homicide and negligence",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Criminal liability in accident case",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "FIR filing for road accident death",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Compensation under criminal law",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Negligence vs intention in IPC",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Death due to unsafe construction",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Corporate criminal liability for negligence",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Employer liability in workplace accident",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Criminal case for defective product injury",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "IPC provisions for accidental death",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Filing charge sheet in accident case",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Compounding offences in accident cases",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Punishment for endangering human life",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Criminal proceedings for bus accident",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Negligent act endangering public safety",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Property ownership dispute resolution",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Partition suit procedure",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Transfer of property by gift deed",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Sale deed cancellation process",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Eviction of tenant procedure",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Illegal occupation of property remedy",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Title dispute in inherited property",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Registration of immovable property",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Adverse possession claim in India",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Property transfer without registration validity",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Co-owner property rights dispute",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Land acquisition compensation process",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Mutation of property records",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Property dispute among siblings",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Injunction against illegal construction",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Recovery of possession suit",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Transfer of property by minor",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Agricultural land ownership dispute",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Boundary dispute legal remedy",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Encroachment removal procedure",
+    "expected_keywords": [
+      "Transfer of Property Act"
+    ]
+  },
+  {
+    "query": "Wrongful termination legal remedy",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Compensation for workplace injury",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Labour court complaint procedure",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Employer liability for employee injury",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Provident fund dispute resolution",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Gratuity payment delay remedy",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Sexual harassment complaint at workplace",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Industrial dispute settlement process",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Illegal dismissal compensation",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Contract employee rights in India",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Minimum wages violation complaint",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Overtime payment dispute",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Unfair labour practice definition",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Resignation notice period dispute",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Compensation for workplace accident death",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Bonus payment dispute",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Trade union rights in India",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Termination without notice legality",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Labour tribunal jurisdiction",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Employment contract breach remedy",
+    "expected_keywords": [
+      "Industrial Disputes Act"
+    ]
+  },
+  {
+    "query": "Divorce procedure under Hindu Marriage Act",
+    "expected_keywords": [
+      "Hindu Marriage Act"
+    ]
+  },
+  {
+    "query": "Maintenance claim by wife",
+    "expected_keywords": [
+      "CrPC"
+    ]
+  },
+  {
+    "query": "Child custody dispute resolution",
+    "expected_keywords": [
+      "Hindu Marriage Act"
+    ]
+  },
+  {
+    "query": "Domestic violence complaint procedure",
+    "expected_keywords": [
+      "Domestic Violence Act"
+    ]
+  },
+  {
+    "query": "Section 125 CrPC maintenance explanation",
+    "expected_keywords": [
+      "CrPC"
+    ]
+  },
+  {
+    "query": "Adoption procedure in India",
+    "expected_keywords": [
+      "Hindu Adoption and Maintenance Act"
+    ]
+  },
+  {
+    "query": "Alimony after divorce",
+    "expected_keywords": [
+      "Hindu Marriage Act"
+    ]
+  },
+  {
+    "query": "Guardianship of minor child",
+    "expected_keywords": [
+      "Hindu Marriage Act"
+    ]
+  },
+  {
+    "query": "Property rights of daughter",
+    "expected_keywords": [
+      "Hindu Succession Act"
+    ]
+  },
+  {
+    "query": "Divorce by mutual consent process",
+    "expected_keywords": [
+      "Hindu Marriage Act"
+    ]
+  },
+  {
+    "query": "Cruelty as ground for divorce",
+    "expected_keywords": [
+      "Hindu Marriage Act"
+    ]
+  },
+  {
+    "query": "Muslim marriage dissolution procedure",
+    "expected_keywords": [
+      "Muslim Personal Law"
+    ]
+  },
+  {
+    "query": "Maintenance rights of parents",
+    "expected_keywords": [
+      "CrPC"
+    ]
+  },
+  {
+    "query": "Child support calculation",
+    "expected_keywords": [
+      "CrPC"
+    ]
+  },
+  {
+    "query": "Protection order under domestic violence act",
+    "expected_keywords": [
+      "Domestic Violence Act"
+    ]
+  },
+  {
+    "query": "Consumer complaint for defective product",
+    "expected_keywords": [
+      "Consumer Protection Act"
+    ]
+  },
+  {
+    "query": "Compensation for medical negligence",
+    "expected_keywords": [
+      "Consumer Protection Act"
+    ]
+  },
+  {
+    "query": "Cheque bounce case procedure",
+    "expected_keywords": [
+      "Negotiable Instruments Act"
+    ]
+  },
+  {
+    "query": "Right to Information application process",
+    "expected_keywords": [
+      "Right to Information Act"
+    ]
+  },
+  {
+    "query": "Filing PIL in High Court",
+    "expected_keywords": [
+      "Constitution of India"
+    ]
+  },
+  {
+    "query": "Appeal against administrative order",
+    "expected_keywords": [
+      "Administrative Law"
+    ]
+  },
+  {
+    "query": "Compensation for illegal detention",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Environmental pollution complaint",
+    "expected_keywords": [
+      "Environment Protection Act"
+    ]
+  },
+  {
+    "query": "Cyber fraud legal remedy",
+    "expected_keywords": [
+      "Information Technology Act"
+    ]
+  },
+  {
+    "query": "Data protection rights in India",
+    "expected_keywords": [
+      "Information Technology Act"
+    ]
+  },
+  {
+    "query": "Banking fraud complaint procedure",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Electricity supply disconnection dispute",
+    "expected_keywords": [
+      "Electricity Act"
+    ]
+  },
+  {
+    "query": "Compensation for building collapse",
+    "expected_keywords": [
+      "Indian Penal Code"
+    ]
+  },
+  {
+    "query": "Tax penalty appeal process",
+    "expected_keywords": [
+      "Income Tax Act"
+    ]
+  },
+  {
+    "query": "Legal remedy against government authority",
+    "expected_keywords": [
+      "Constitution of India"
+    ]
+  }
+]
