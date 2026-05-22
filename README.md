@@ -2,6 +2,13 @@
 
 AI-powered legal intelligence platform using RAG, embeddings, NLP, and semantic search.
 
+![React](https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?logo=node.js)
+![Python](https://img.shields.io/badge/AI%20Engine-Python-yellow?logo=python)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)
+![RAG](https://img.shields.io/badge/AI-RAG%20%2B%20LLM-purple)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ---
 
 ## Overview
@@ -12,16 +19,15 @@ The system combines semantic search, embeddings, and AI-powered retrieval to pro
 
 ---
 
-## Features
+## ✨ Features
 
-- AI-powered legal query system
-- Retrieval-Augmented Generation (RAG)
-- Semantic search using embeddings
-- Legal document retrieval
-- Backend REST APIs
-- Modern frontend UI
-- Evaluation pipeline for response quality
-- Context-aware legal assistance
+- 🤖 **AI Legal Chat Assistant** — Ask legal questions and get clause-level, context-aware answers powered by RAG + LLM
+- 🔍 **Semantic Search** — Embedding-based retrieval finds the most relevant legal documents for any query
+- 👤 **Citizen Dashboard** — Manage consultations, track case history, and interact with the AI assistant
+- 🧑‍⚖️ **Lawyer Dashboard** — Lawyers can manage their profile, view client requests, and handle consultations
+- 🔎 **Lawyer Discovery** — Citizens can search and filter lawyers by specialization
+- 🔐 **Authentication & Authorization** — Secure login flows for both citizens and lawyers
+- 📊 **Evaluation Pipeline** — Built-in response quality evaluation for the RAG system
 
 ---
 
