@@ -25,6 +25,86 @@ The system combines semantic search, embeddings, and AI-powered retrieval to pro
 
 ---
 
+## Application Screenshots
+
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+---
+
+### AI Legal Chat Assistant
+
+![Chatbot](screenshots/chatbot.png)
+
+---
+
+### Citizen Dashboard
+
+![Citizen Dashboard](screenshots/citizen-dashboard.png)
+
+---
+
+### Lawyer Dashboard
+
+![Lawyer Dashboard](screenshots/lawyer-dashboard.png)
+
+---
+
+### Lawyer Discovery Module
+
+![Lawyer Discovery](screenshots/lawyer-discovery.png)
+
+---
+
+## System Architecture
+
+![Architecture](screenshots/architecture.png)
+
+### Architecture Explanation
+
+JUSMATE follows a modular full-stack AI architecture designed for intelligent legal assistance and semantic legal information retrieval.
+
+#### Frontend Layer
+The frontend is built using React, TypeScript, and Tailwind CSS. It provides:
+- User authentication
+- Lawyer discovery
+- Consultation management
+- AI legal chat interface
+- Dashboard analytics
+
+#### Backend Layer
+The backend is developed using Node.js and Express.js. It handles:
+- REST API management
+- Authentication and authorization
+- User and lawyer management
+- Consultation workflows
+- Request routing between frontend and AI modules
+
+#### AI / RAG Engine
+The `ragNllm` module powers the intelligent legal retrieval system using:
+- Retrieval-Augmented Generation (RAG)
+- Embedding-based semantic search
+- Context-aware legal response generation
+- Legal document retrieval and ranking
+
+#### Data Flow
+1. User submits a legal query through the frontend.
+2. Backend APIs process and validate the request.
+3. Query is forwarded to the RAG engine.
+4. Relevant legal documents and clauses are retrieved using embeddings.
+5. Retrieved context is passed to the LLM.
+6. AI-generated legal response is returned to the frontend.
+
+#### Key Advantages
+- Context-aware legal assistance
+- Faster legal information retrieval
+- Modular scalable architecture
+- AI-enhanced semantic understanding
+- Separation of frontend, backend, and AI services
+
+---
+
 ## Tech Stack
 
 ### Frontend
