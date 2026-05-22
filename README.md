@@ -31,128 +31,90 @@ The system combines semantic search, embeddings, and AI-powered retrieval to pro
 
 ---
 
-## Application Screenshots
+## 🖼️ Screenshots
 
-### Home Page
-
+### 🏠 Home Page
 ![Home Page](screenshots/homepage.png)
 
----
-
-### AI Legal Chat Assistant
-
+### 💬 AI Legal Chat Assistant
 ![Chatbot](screenshots/chatbot.png)
 
----
-
-### Citizen Dashboard
-
+### 📋 Citizen Dashboard
 ![Citizen Dashboard](screenshots/citizen-dashboard.png)
 
----
-
-### Lawyer Dashboard
-
+### 🧑‍⚖️ Lawyer Dashboard
 ![Lawyer Dashboard](screenshots/lawyer-dashboard.png)
 
----
-
-### Lawyer Discovery Module
-
+### 🔎 Lawyer Discovery
 ![Lawyer Discovery](screenshots/lawyer-discovery.png)
 
----
-
-## System Architecture
-
+### 🏗️ System Architecture
 ![Architecture](screenshots/architecture.png)
 
-### Architecture Explanation
-
-JUSMATE follows a modular full-stack AI architecture designed for intelligent legal assistance and semantic legal information retrieval.
-
-#### Frontend Layer
-The frontend is built using React, TypeScript, and Tailwind CSS. It provides:
-- User authentication
-- Lawyer discovery
-- Consultation management
-- AI legal chat interface
-- Dashboard analytics
-
-#### Backend Layer
-The backend is developed using Node.js and Express.js. It handles:
-- REST API management
-- Authentication and authorization
-- User and lawyer management
-- Consultation workflows
-- Request routing between frontend and AI modules
-
-#### AI / RAG Engine
-The `ragNllm` module powers the intelligent legal retrieval system using:
-- Retrieval-Augmented Generation (RAG)
-- Embedding-based semantic search
-- Context-aware legal response generation
-- Legal document retrieval and ranking
-
-#### Data Flow
-1. User submits a legal query through the frontend.
-2. Backend APIs process and validate the request.
-3. Query is forwarded to the RAG engine.
-4. Relevant legal documents and clauses are retrieved using embeddings.
-5. Retrieved context is passed to the LLM.
-6. AI-generated legal response is returned to the frontend.
-
-#### Key Advantages
-- Context-aware legal assistance
-- Faster legal information retrieval
-- Modular scalable architecture
-- AI-enhanced semantic understanding
-- Separation of frontend, backend, and AI services
-
 ---
 
-## Tech Stack
+## 🏗️ Architecture
 
-### Frontend
-- React.js
-- TypeScript
-- Tailwind CSS
-- Vite
-
-### Backend
-- Node.js
-- Express.js
-- MySql
-
-### AI / ML
-- Python
-- RAG Pipeline
-- NLP
-- Embeddings
-- LLM Integration
-
----
-
-## Project Structure
+JUSMATE follows a modular three-layer architecture:
 
 ```text
-backend/   -> Backend APIs and server logic
-frontend/  -> Frontend application
-ragNllm/   -> RAG pipeline, retrieval, evaluation, embeddings
+User Query (Frontend)
+        ↓
+Backend REST API (Node.js / Express)
+        ↓
+RAG Engine (Python)
+├── Semantic Search via Embeddings
+├── Legal Document Retrieval & Ranking
+└── LLM Response Generation
+        ↓
+Response Returned to Frontend
 ```
 
 ---
 
-## Installation
+### Flow
+1. User submits a legal query via the React frontend.
+2. Backend validates and routes the request.
+3. RAG engine retrieves relevant legal clauses using embeddings.
+4. Retrieved context is passed to the LLM to generate a grounded response.
+5. Answer is returned to the user with source context.
 
-### Clone Repository
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Frontend | React.js, TypeScript, Tailwind CSS, Vite |
+| Backend | Node.js, Express.js |
+| Database | MySQL |
+| AI / ML | Python, RAG Pipeline, Embeddings, LLM Integration, NLP |
+
+---
+
+## 🗂️ Project Structure
+
+```text
+JUSMATE/
+├── frontend/        # React + TypeScript frontend application
+├── backend/         # Node.js + Express REST APIs and authentication
+├── ragNllm/         # RAG pipeline, embeddings, retrieval, and LLM processing
+├── screenshots/     # Application screenshots and architecture diagrams
+├── README.md        # Project documentation
+└── .gitignore       # Git ignored files and folders
+```
+---
+
+## 🚀 Installation & Setup
+
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Harshith0906/JUSMATE.git
 cd JUSMATE
 ```
 
-### Backend Setup
+### 2. Backend
 
 ```bash
 cd backend
@@ -160,7 +122,9 @@ npm install
 npm run dev
 ```
 
-### Frontend Setup
+> Configure your MySQL connection and environment variables in a `.env` file before starting.
+
+### 3. Frontend
 
 ```bash
 cd frontend
@@ -168,25 +132,37 @@ npm install
 npm run dev
 ```
 
-### Python Environment
+### 4. RAG / AI Engine
 
 ```bash
 cd ragNllm
 pip install -r requirements.txt
 ```
 
----
-
-## Future Improvements
-
-- Legal document summarization
-- Multi-language support
-- Fine-tuned legal LLM
-- Risk analysis engine
-- AI legal chatbot
+> Add your LLM API key and embedding model config to the environment before running the pipeline.
 
 ---
 
-## Author
+## ⚙️ Environment Variables
 
-Chakinala Harshith Patel
+Create `.env` files in the respective directories:
+
+**`backend/.env`**
+
+---
+
+## 🔮Possible Future Improvements
+
+- [ ] Legal document summarization
+- [ ] Multi-language support (regional Indian languages)
+- [ ] Fine-tuned legal-domain LLM
+- [ ] AI-powered risk analysis engine
+- [ ] Case outcome prediction module
+- [ ] Mobile app (React Native)
+
+---
+
+## 👤 Author
+
+**Chakinala Harshith Patel**
+GitHub: [@Harshith0906](https://github.com/Harshith0906)
