@@ -103,4 +103,4 @@ pip install -r requirements.txt
 
 ## Author
 
-Harshith
+Chakinala Harshith Patel
