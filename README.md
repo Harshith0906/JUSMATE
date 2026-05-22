@@ -149,6 +149,8 @@ Create `.env` files in the respective directories:
 
 **`backend/.env`**
 
+**`ragNllm/.env`**
+
 ---
 
 ## 🔮Possible Future Improvements
